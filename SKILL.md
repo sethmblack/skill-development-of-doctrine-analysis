@@ -4,7 +4,8 @@ description: Evaluate whether a change, evolution, or development preserves esse
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3820
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - development-of-doctrine-analysis
 - structure
